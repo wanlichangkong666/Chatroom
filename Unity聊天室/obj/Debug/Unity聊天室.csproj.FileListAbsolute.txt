@@ -1,0 +1,6 @@
+D:\新建文件夹\自编案例\Unity聊天室\Unity聊天室\bin\Debug\Unity聊天室.exe.config
+D:\新建文件夹\自编案例\Unity聊天室\Unity聊天室\bin\Debug\Unity聊天室.exe
+D:\新建文件夹\自编案例\Unity聊天室\Unity聊天室\bin\Debug\Unity聊天室.pdb
+D:\新建文件夹\自编案例\Unity聊天室\Unity聊天室\obj\Debug\Unity聊天室.csprojResolveAssemblyReference.cache
+D:\新建文件夹\自编案例\Unity聊天室\Unity聊天室\obj\Debug\Unity聊天室.exe
+D:\新建文件夹\自编案例\Unity聊天室\Unity聊天室\obj\Debug\Unity聊天室.pdb
